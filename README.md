@@ -17,3 +17,6 @@ Backtracking: A common approach involves recursively placing queens and backtrac
 - Constraint Satisfaction: Using constraints (row, column, diagonal checks) to prune the search space, reducing unnecessary computations.
 
 - Optimization Techniques: Various optimizations can be applied, such as early termination when a solution is found, symmetry breaking to reduce redundant searches, and heuristic methods to guide the search.
+
+
+-  WEBSITE IS LIVE AT :    [n-queens](https://adarsh097.github.io/N-queens/)
