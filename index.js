@@ -8,6 +8,7 @@ const playButton = document.getElementById('play-button');
 const pauseButton = document.getElementById("pause-button");
 
 // HTML entity for queen chess piece
+// const queen = '<i class="fas fa-chess-queen" style="color:#000"></i>';
 const queen = '<i class="fas fa-chess-queen" style="color:#000"></i>';
 
 // Variables for board size, speed, and board state
